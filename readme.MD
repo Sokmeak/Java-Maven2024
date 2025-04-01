@@ -6,7 +6,7 @@ This is a Maven-based Java project that follows a standard directory structure a
 ## Prerequisites
 Ensure you have the following installed on your system:
 - Java Development Kit (JDK) 8 or later
-- Apache Maven
+- Apache Maven (latest version)
 
 ## Project Structure
 ```
